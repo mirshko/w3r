@@ -1,20 +1,22 @@
 # web3-react
 
+[![Edit w3r example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/w3r-example-qbzps?fontsize=14&hidenavigation=1&theme=dark)
+
 Warning: pre-alpha code!
 
 Tasks:
-- Other Connectors
-  - WalletLink
-  - WalletConnect V2
-  - Gnosis Safe
-  - Other injected connectors?
-- Address remaining TODOs in the code
-- Work on DevEx
-- Tests
-- Ensure dist/ files can be consumed in e.g. CRA
-- Host example/ on CodeSandbox
-- Docs
-- Upgrade to Node 16 once LTS?
+- [ ] Other Connectors
+  - [ ] WalletLink
+  - [ ] WalletConnect V2
+  - [ ] Gnosis Safe
+  - [ ] Other injected connectors?
+- [ ] Address remaining TODOs in the code
+- [ ] Work on DevEx
+- [ ] Tests
+- [ ] Ensure dist/ files can be consumed in e.g. CRA
+- [x] Host example/ on CodeSandbox
+- [ ] Docs
+- [ ] Upgrade to Node 16 once LTS?
 
 ## Getting Started
 
